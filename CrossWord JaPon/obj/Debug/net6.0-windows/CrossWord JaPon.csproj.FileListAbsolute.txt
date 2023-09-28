@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\bin\Debug\net6.0-windows\CrossWord JaPon.exe
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\bin\Debug\net6.0-windows\CrossWord JaPon.deps.json
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\bin\Debug\net6.0-windows\CrossWord JaPon.runtimeconfig.json
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\bin\Debug\net6.0-windows\CrossWord JaPon.dll
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\bin\Debug\net6.0-windows\CrossWord JaPon.pdb
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord_JaPon.GameForm.resources
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.AssemblyInfo.cs
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.dll
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\refint\CrossWord JaPon.dll
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.pdb
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\CrossWord JaPon.genruntimeconfig.cache
+C:\Users\User\source\repos\CrossWord JaPon\CrossWord JaPon\obj\Debug\net6.0-windows\ref\CrossWord JaPon.dll
