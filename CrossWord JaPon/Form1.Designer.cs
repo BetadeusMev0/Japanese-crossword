@@ -30,6 +30,8 @@
         {
             this.gameArea = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.buttonClear = new System.Windows.Forms.Button();
+            this.buttonCheckWin = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.gameArea)).BeginInit();
             this.SuspendLayout();
             // 
@@ -45,21 +47,43 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(403, 0);
+            this.label1.Location = new System.Drawing.Point(499, 67);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(38, 15);
+            this.label1.Size = new System.Drawing.Size(51, 15);
             this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.label1.Text = "Not Win";
+            // 
+            // buttonClear
+            // 
+            this.buttonClear.Location = new System.Drawing.Point(499, 12);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(75, 23);
+            this.buttonClear.TabIndex = 2;
+            this.buttonClear.Text = "Clear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
+            // 
+            // buttonCheckWin
+            // 
+            this.buttonCheckWin.Location = new System.Drawing.Point(499, 41);
+            this.buttonCheckWin.Name = "buttonCheckWin";
+            this.buttonCheckWin.Size = new System.Drawing.Size(75, 23);
+            this.buttonCheckWin.TabIndex = 3;
+            this.buttonCheckWin.Text = "Check Win";
+            this.buttonCheckWin.UseVisualStyleBackColor = true;
+            this.buttonCheckWin.Click += new System.EventHandler(this.buttonCheckWin_Click);
             // 
             // GameForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(524, 536);
+            this.ClientSize = new System.Drawing.Size(584, 536);
+            this.Controls.Add(this.buttonCheckWin);
+            this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.gameArea);
-            this.MaximumSize = new System.Drawing.Size(540, 575);
-            this.MinimumSize = new System.Drawing.Size(540, 575);
+            this.MaximumSize = new System.Drawing.Size(600, 575);
+            this.MinimumSize = new System.Drawing.Size(600, 575);
             this.Name = "GameForm";
             this.Text = "Game";
             ((System.ComponentModel.ISupportInitialize)(this.gameArea)).EndInit();
@@ -68,9 +92,13 @@
 
         }
 
+
+
         #endregion
 
         private PictureBox gameArea;
         private Label label1;
+        private Button buttonClear;
+        private Button buttonCheckWin;
     }
 }
